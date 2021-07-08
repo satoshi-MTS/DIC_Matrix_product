@@ -42,4 +42,3 @@ def matrix_product_calculator_revised(matrix_1, matrix_2):
 		matrix_product = np.array(list_of_matrix_12).reshape(matrix_1.shape[0], matrix_2.shape[1])
 		# 返り値の設定
 		return matrix_product
-
